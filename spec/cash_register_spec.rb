@@ -93,4 +93,4 @@ end
 
 
 
-self.last_transtraction = price * quantity
+
