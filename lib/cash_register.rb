@@ -13,7 +13,6 @@ class CashRegister
   end
 
   def add_item
-    self.
   end
 
   def apply_discount
