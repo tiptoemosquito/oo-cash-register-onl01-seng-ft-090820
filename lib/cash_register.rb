@@ -9,9 +9,6 @@ class CashRegister
      @items = []
   end
 
-  def total
-    total += 1
-  end
 
   def add_item
   end
@@ -19,8 +16,6 @@ class CashRegister
   def apply_discount
   end
 
-  def items
-  end
 
   def void_last_transaction
   end
