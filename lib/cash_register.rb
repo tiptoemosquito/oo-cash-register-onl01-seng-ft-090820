@@ -1,7 +1,8 @@
 class CashRegister
 
 
-  def total
+  def initialize(total)
+    @total = total
   end
 
   def add_item
