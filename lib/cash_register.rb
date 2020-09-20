@@ -5,6 +5,9 @@ class CashRegister
     @total = total
   end
 
+  def total
+  end
+
   def add_item
   end
 
