@@ -22,6 +22,7 @@ class CashRegister
 
     return "After the discount, the total comes to $800."
   end
+end
 
   def void_last_transaction
   end
