@@ -89,3 +89,8 @@ describe 'CashRegister' do
   end
 end
 
+
+
+
+
+#self.last_transtraction = price * quantity
